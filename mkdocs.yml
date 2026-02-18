@@ -18,5 +18,7 @@ nav:
   - Control Model:
       - State Machine: control_model/state_machine.md
       - Failure Modes: control_model/failure_modes.md
+  - Real Robot:
+      - ROS2 Startup CLI: real_robot/ros2_startup.md
 theme:
   name: material

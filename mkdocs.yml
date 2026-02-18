@@ -1,0 +1,22 @@
+
+site_name: Dobot ROS 2 Docs
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Overview: getting_started/overview.md
+  - ROS 2 Interface:
+      - Overview: ros2_interface/overview.md
+      - Services:
+          - Dashboard: ros2_interface/services/dashboard.md
+          - Motion: ros2_interface/services/motion.md
+          - Parameters: ros2_interface/services/parameters.md
+          - State: ros2_interface/services/state.md
+          - Tooling: ros2_interface/services/tooling.md
+          - IO: ros2_interface/services/io.md
+          - Force: ros2_interface/services/force.md
+      - Topics: ros2_interface/topics.md
+  - Control Model:
+      - State Machine: control_model/state_machine.md
+      - Failure Modes: control_model/failure_modes.md
+theme:
+  name: material

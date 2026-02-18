@@ -18,5 +18,3 @@ nav:
   - Control Model:
       - State Machine: control_model/state_machine.md
       - Failure Modes: control_model/failure_modes.md
-theme:
-  name: material
